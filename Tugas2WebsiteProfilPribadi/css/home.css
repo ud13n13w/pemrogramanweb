@@ -1,0 +1,102 @@
+html{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #EEEEEE;
+}
+
+	div.wadah{
+		width: 80%;
+		margin: auto;
+		padding: 0;
+		background-color: #EEEEEE;
+	}
+
+		div.header{
+			width: 70%;
+			padding: 0;
+			margin: 0% 10% 0% 10%;
+			background-color: #EEEEEE;
+		}
+
+			div.header h3{
+				margin: auto;
+				padding-top: 1%;
+				font-family: Verdana;
+				font-weight: bold;
+				text-align: center;
+				letter-spacing: -1.5px;
+			}
+
+			div.header p{
+				font-family: Verdana;
+				font-weight: lighter;
+				text-align: center;
+			}
+
+		div.menu{
+			width: 80%;
+			height: 52px;
+			padding: 0;
+			margin: 0% 10%;
+			background-color: #598234;
+		}
+
+			div.menu a{
+				float:left;
+				display: inline-block;
+				padding: 2% 2%;
+				color: white;
+				font-size: 15px;
+				text-align: center;
+				background-color: #598234;
+				color: #EDEDED;
+				text-transform: uppercase;
+				text-decoration: none;
+			}
+
+	div.wadah2{
+		width: 70%;
+		height: 100%;
+		margin: auto;
+		margin-top: 20px;
+		
+
+		background-color: white;
+	}
+
+		div.tabel{
+			width: 50%;
+			margin: auto;
+			background-color: white;
+		}
+
+		div.tabel img{
+			text-align: center;
+			display: block;
+			margin: 0 auto;
+			padding-top: 30px;
+		}
+
+		div.tabel table{
+			padding-top: 20px;
+			padding-bottom: 30px;
+			font-family: arial;
+		}
+
+			div.tabel .tbheader{
+				padding: 15px 35px;
+				background:#CECECE;
+				font-family: Verdana;
+				font-weight: bold;
+			}
+
+			div.tabel .tbbody{
+				padding: 15px 35px;
+				background:#CECECE;
+				font-family: Verdana;
+				font-weight: 100;
+			}
